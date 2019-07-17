@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/pdff_hw13_react-portals/static/css/main.2cce8147.chunk.css",
-    "main.js": "/pdff_hw13_react-portals/static/js/main.35896022.chunk.js",
-    "main.js.map": "/pdff_hw13_react-portals/static/js/main.35896022.chunk.js.map",
+    "main.css": "/pdff_hw13_react-portals/static/css/main.7478b0ed.chunk.css",
+    "main.js": "/pdff_hw13_react-portals/static/js/main.16e9a0a9.chunk.js",
+    "main.js.map": "/pdff_hw13_react-portals/static/js/main.16e9a0a9.chunk.js.map",
     "runtime~main.js": "/pdff_hw13_react-portals/static/js/runtime~main.8904a932.js",
     "runtime~main.js.map": "/pdff_hw13_react-portals/static/js/runtime~main.8904a932.js.map",
-    "static/js/2.b41502e9.chunk.js": "/pdff_hw13_react-portals/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/pdff_hw13_react-portals/static/js/2.b41502e9.chunk.js.map",
+    "static/js/2.8d9e574e.chunk.js": "/pdff_hw13_react-portals/static/js/2.8d9e574e.chunk.js",
+    "static/js/2.8d9e574e.chunk.js.map": "/pdff_hw13_react-portals/static/js/2.8d9e574e.chunk.js.map",
     "index.html": "/pdff_hw13_react-portals/index.html",
-    "precache-manifest.84141fca1103a1d0424d127e2c406ea1.js": "/pdff_hw13_react-portals/precache-manifest.84141fca1103a1d0424d127e2c406ea1.js",
+    "precache-manifest.ecf10900b78e0b0c4a607bc7e8c6f355.js": "/pdff_hw13_react-portals/precache-manifest.ecf10900b78e0b0c4a607bc7e8c6f355.js",
     "service-worker.js": "/pdff_hw13_react-portals/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/pdff_hw13_react-portals/static/css/main.2cce8147.chunk.css.map",
+    "static/css/main.7478b0ed.chunk.css.map": "/pdff_hw13_react-portals/static/css/main.7478b0ed.chunk.css.map",
     "static/media/logo.svg": "/pdff_hw13_react-portals/static/media/logo.5d5d9eef.svg"
   }
 }
