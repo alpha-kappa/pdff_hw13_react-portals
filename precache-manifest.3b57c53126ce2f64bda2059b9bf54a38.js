@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "092b20dfbb31f814c214f9a35a658028",
+    "revision": "e75928fb1439eea38bc2d652d721a1e0",
     "url": "/pdff_hw13_react-portals/index.html"
   },
   {
-    "revision": "5aa1a7ad0b9462284fe7",
+    "revision": "ca0db2861cbe25179e7f",
     "url": "/pdff_hw13_react-portals/static/css/main.7478b0ed.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pdff_hw13_react-portals/static/js/2.8d9e574e.chunk.js"
   },
   {
-    "revision": "5aa1a7ad0b9462284fe7",
-    "url": "/pdff_hw13_react-portals/static/js/main.16e9a0a9.chunk.js"
+    "revision": "ca0db2861cbe25179e7f",
+    "url": "/pdff_hw13_react-portals/static/js/main.8f5b4ae2.chunk.js"
   },
   {
     "revision": "a1771e46f5f5ea1f9b37",
