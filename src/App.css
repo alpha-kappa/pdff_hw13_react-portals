@@ -19,6 +19,19 @@
   color: white;
 }
 
+.alerts-panel:not(:empty){
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  padding: 15px;
+  min-width: 200px;
+  min-height: 150px;
+  border: #2b313d inset 8px; 
+  white-space: nowrap;
+  font-size: calc(10px + 1vmin);
+  color: white;
+}
+
 .App-link {
   color: #61dafb;
 }
